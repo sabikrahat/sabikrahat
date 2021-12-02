@@ -63,7 +63,7 @@
 
 [facebook]: https://www.facebook.com/sabikrahat72428
 [instagram]: https://www.instagram.com/sabikrahat
-[website]: https://sabikrahat72428.blogspot.com
+[website]: https://sabikrahat.github.io/
 [website_achievement]: https://sabikrahat72428.blogspot.com/search/label/achievements
 [linkedin]: https://www.linkedin.com/in/sabikrahat
 [twitter]: https://twitter.com/sabikrahat
