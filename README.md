@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at - **[My Portfolio](https://sabikrahat72428.blogspot.com)**
+- 👨‍💻 All of my projects are available at - **[My Portfolio](https://sabikrahat.github.io/)**
 
 - 📫 Want to reach me - **[Email](mailto:sabikrahat72428@gmail.com)**
 
@@ -63,7 +63,7 @@
 
 [facebook]: https://www.facebook.com/sabikrahat72428
 [instagram]: https://www.instagram.com/sabikrahat
-[website]: https://sabikrahat.github.io/
+[website]: https://sabikrahat72428.blogspot.com
 [website_achievement]: https://sabikrahat72428.blogspot.com/search/label/achievements
 [linkedin]: https://www.linkedin.com/in/sabikrahat
 [twitter]: https://twitter.com/sabikrahat
