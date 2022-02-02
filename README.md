@@ -9,9 +9,9 @@
 <a href="https://github.com/Sabikrahat?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
 </p>
 
-- 🔭 &nbsp; I’m currently working **as a Flutter Apprentice at Algorithm Generation Ltd.** <img src="emoji/winking-face-joypixels.gif" width="18px">
+- 🔭 &nbsp; I’m currently working **as a Parmanent Flutter Apprentice at Algorithm Generation Ltd.** <img src="emoji/winking-face-joypixels.gif" width="18px">
 
-- 🌱 &nbsp; I’m currently learning **Flutter & Django.** <img src="emoji/writing-hand-joypixels.gif" width="18px">
+- 🌱 &nbsp; I’m currently learning **Flutter & Blockchain.** <img src="emoji/writing-hand-joypixels.gif" width="18px">
 
 - 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="emoji/waving-hand-joypixels.gif" width="25px">
 
