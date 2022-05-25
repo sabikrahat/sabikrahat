@@ -15,7 +15,7 @@
 
 - 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="emoji/waving-hand-joypixels.gif" width="25px">
 
-- 👨‍💻 &nbsp; Read more about my projects at **[My Portfolio](https://sabikrahat72428.blogspot.com)**
+- 👨‍💻 &nbsp; Read more about my projects at **[My Portfolio](https://sabikrahat.github.io/)**
 
 - 📫 &nbsp; Want to reach me - **[Email](mailto:sabikrahat72428@gmail.com)**
 
@@ -44,8 +44,10 @@
 [<img align="left" alt="sabikrahat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="sabikrahat | Instagram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="sabikrahat | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]
+[<img align="left" alt="sabikrahat | Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack-overflow]
 [<img align="left" alt="sabikrahat | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="sabikrahat | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
 
 ## <h1> &nbsp; </h1>
 
@@ -63,7 +65,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<a href="https://github.com/sabikrahat/github-readme-activity-graph"><img alt="Sabik Rahat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabikrahat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sabikrahat/"><img alt="Sabik Rahat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabikrahat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 [facebook]: https://www.facebook.com/sabikrahat
 [instagram]: https://www.instagram.com/sabikrahat
@@ -72,3 +74,4 @@
 [linkedin]: https://www.linkedin.com/in/sabikrahat
 [twitter]: https://twitter.com/sabikrahat
 [youtube]: https://www.youtube.com/channel/UCSqTf_pO-J7cd7PQ_BpFfGg/videos
+[stack-overflow]: https://stackoverflow.com/users/11340437/md-sabik-alam-rahat
