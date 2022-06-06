@@ -9,11 +9,11 @@
 <a href="https://github.com/Sabikrahat?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
 </p>
 
-- 🔭 &nbsp; I’m currently working **as a Parmanent Flutter Apprentice at Algorithm Generation Ltd.** <img src="emoji/winking-face-joypixels.gif" height="18px" width="18px">
+- 🔭 &nbsp; I’m currently working **as a Parmanent Flutter Apprentice at Algorithm Generation Ltd.** <img src="emoji/winking-face-joypixels.gif" height="22px" width="22px">
 
-- 🌱 &nbsp; I’m currently learning **Flutter & Blockchain.** <img src="emoji/writing-hand-joypixels.gif" height="18px" width="18px">
+- 🌱 &nbsp; I’m currently learning **Flutter & Blockchain.** <img src="emoji/writing-hand-joypixels.gif" height="22px" width="22px">
 
-- 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="emoji/waving-hand-joypixels.gif" height="18px" width="25px">
+- 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="emoji/waving-hand-joypixels.gif" height="22px" width="22px">
 
 - 👨‍💻 &nbsp; Read more about my projects at **[My Portfolio](https://sabikrahat.github.io/)**
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-## <img src="emoji/globe-joypixels.gif" height="20px" width="20px"> Connect with Me:
+## <img src="emoji/globe-joypixels.gif" height="25px" width="25px"> Connect with Me:
 
 [<img align="left" alt="sabikrahat.github.io/| Myslf" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="sabikrahat | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
