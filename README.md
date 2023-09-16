@@ -27,7 +27,7 @@
 
 <p align="left">
 
-- 🔭 &nbsp; I’m currently working at **Algorithm Generation Ltd.** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+- 🔭 &nbsp; I’m currently working at **Royex Technologies. (UAE, Dubai)** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
 - 🌱 &nbsp; I’m currently learning **Flutter in depth.** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
 
