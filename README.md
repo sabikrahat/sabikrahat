@@ -2,10 +2,11 @@
 <h3 align="center">I'm a Student, Self-Learner and Flutter Developer from Bangladesh.</h3>
 
 <br>
-
+<!--
 <p align="center">
   <img data-target="animated-image.replacedImage" alt="img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="100px" style="display: block; opacity: 1;">
 </P>
+-->
 
 <p align="center">
   <a href="https://github.com/Sabikrahat/"><img src="https://komarev.com/ghpvc/?username=sabikrahat&label=Profile%20views&color=0e75b6&style=flat" alt="sabikrahat" /> </a>
